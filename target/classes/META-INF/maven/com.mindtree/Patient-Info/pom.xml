@@ -51,6 +51,6 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		<finalName>Patient-info</finalName>
 	</build>
-
 </project>
